@@ -1,0 +1,2 @@
+# Ignora credenziali e variabili d'ambiente locali
+.env
